@@ -66,5 +66,6 @@ If you wish to contribute to the development of Let's Read, we would be happy to
    ```
    $ git push origin my-branch
    ```
-   
-  Made with ❤️. Give a ⭐️ if this project helped you 😉
+ ## Your support is essential
+ 
+ Made with ❤️. Give a ⭐️ if this project helped you 😉
