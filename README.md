@@ -26,12 +26,12 @@ Follow the instructions below to set up the development environment and run the 
 
 1. Clone this repository:
    ```
-   $ git clone https://github.com/your-username/lets-read.git
+   $ git clone https://github.com/zangassis/lets-read-go-bookstore.git
    ```
 
 2. Navigate to the project directory:
    ```
-   $ cd lets-read
+   $ cd lets-read-go-bookstore
    ```
 
 3. Install the dependencies using Go Modules:
